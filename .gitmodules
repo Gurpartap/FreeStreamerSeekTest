@@ -1,0 +1,3 @@
+[submodule "Vendor/FreeStreamer"]
+	path = Vendor/FreeStreamer
+	url = https://github.com/muhku/FreeStreamer.git
